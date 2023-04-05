@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey There! :wave:
 
-<!--
-**amruthkiran94/amruthkiran94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Amruth Kiran, 
 
-Here are some ideas to get you started:
+A Geospatial Researcher/Developer at the Indian Institute for Human Settlements in Bangalore, India. My work mostly revolves around building large-scale compute platforms on cloud services and on-premise systems using open-source GIS and Remote Sensing tools. My expertise is in:
+1. Big Earth Observation (EO) management :earth_africa:, 
+2. Developing custom data portals :computer:, 
+3. Understanding the use-cases of various metadata protocols and,
+4. Building/dessiminating spatial surveys :memo:.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
