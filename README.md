@@ -8,6 +8,11 @@ A Geospatial Researcher/Developer at the Indian Institute for Human Settlements 
 3. Understanding the use-cases of various metadata protocols and,
 4. Building/dessiminating spatial surveys :memo:.
 ---
+### Ongoing work
+Building large-scale EO data platforms using:
+1. Open Data Cube
+2. TerriaJS/TerriaMap
+3. R Shiny
 
 
 
