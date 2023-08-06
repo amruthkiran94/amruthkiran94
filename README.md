@@ -15,7 +15,7 @@ As part of the Geospatial Lab at IIHS (motivated by personal interest as well), 
 Check out my [fork](https://github.com/amruthkiran94/TerriaMap) and [wiki](https://github.com/amruthkiran94/TerriaMap/wiki) to deploy your own spatial data portal
 
 ### R Shiny :sparkles:
-Check out my [fork](https://github.com/amruthkiran94/R-Shiny)
+Check out my [repo](https://github.com/amruthkiran94/R-Shiny)
 
 ### Open Data Cube :ice_cube:
 Coming Soon! :hourglass_flowing_sand:
