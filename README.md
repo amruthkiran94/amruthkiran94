@@ -27,8 +27,5 @@ Social Media:
 [![Alt text](https://github.com/amruthkiran94/social-icons/blob/master/SVG/Color/Twitter.svg)](https://twitter.com/Amruthkiran94)
 [![Alt text](https://github.com/amruthkiran94/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/amruth-kiran/)
 
-Email:
-
-amruthkiran94@gmail.com, akiran@iihs.ac.in
 
 
